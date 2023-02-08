@@ -1,4 +1,8 @@
-### Hi there 👋
+### How to use this repository
+- 学んだことをアウトプットする場にする
+- AWSと連携させる
+  - ウェブサイトを作ってみたい
+  - AWSのデータベースとウェブサイトを繋げてアプリの仕組みを理解する
 
 <!--
 **MotoKikkoro/MotoKikkoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
